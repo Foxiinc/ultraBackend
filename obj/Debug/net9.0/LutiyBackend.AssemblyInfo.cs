@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("LutiyBackend")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+011c900d493da0bec8f17cb783829da06b49adda")]
 [assembly: System.Reflection.AssemblyProductAttribute("LutiyBackend")]
 [assembly: System.Reflection.AssemblyTitleAttribute("LutiyBackend")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
